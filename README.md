@@ -1,9 +1,3 @@
-╔══════════════════════════════════╗
-║                                  ║
-║     🖤 G I N A   P E D R O S A 🖤     ║
-║                                  ║
-╚══════════════════════════════════╝
-
 ## Welcome to my world ✨
 
 I’m a **Strategic Data Science professional** bridging Corporate Strategy with Advanced Analytics.  
