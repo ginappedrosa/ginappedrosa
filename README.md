@@ -44,5 +44,5 @@ I love **nature, tending my garden, reading, watching movies, exercising, explor
 
 ### 📫 How to reach me
 - Email: ginappedrosa@gmail.com
-- LinkedIn: [Your LinkedIn]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/gina-pedrosa-4b3665151/))  
+- LinkedIn: [https://www.linkedin.com/in/gina-pedrosa-4b3665151/](https://www.linkedin.com/in/gina-pedrosa-4b3665151/)
 - GitHub: [github.com/ginappedrosa](https://github.com/ginappedrosa)
